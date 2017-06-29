@@ -1,0 +1,2 @@
+# passgen
+Safe passwords generator.
